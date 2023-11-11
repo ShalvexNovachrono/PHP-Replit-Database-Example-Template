@@ -2,6 +2,8 @@
 # PHP Replit Database Example Template 
 This template demonstrates how to use the Replit database with PHP, as its name implies.
 
+[![Video](https://img.youtube.com/vi/Xn2cADqyoM8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Xn2cADqyoM8)
+
 ## ReplDB?
 Replit db, also known as the Replit database, is a free database maintained by Replit. It is incredibly secure and can be used with Python and Node.js.
 
